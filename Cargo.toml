@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-rust-i18n = "3"
+rust-i18n = { path = "../rust-i18n" }
