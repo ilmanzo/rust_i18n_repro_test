@@ -1,0 +1,7 @@
+[package]
+name = "rust_i18n_repro_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust-i18n = "3"

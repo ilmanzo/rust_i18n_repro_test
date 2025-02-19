@@ -1,0 +1,22 @@
+_version: 2
+
+"testing":
+  en: "testing"
+  it: "prova"
+  es: "prueba"
+  fr: "test"
+"translations":
+  en: "translations"
+  it: "traduzioni"
+  es: "traducción"
+  fr: "traduction"
+"apple":
+  en: "apple"
+  it: "mela"
+  es: "manzana"
+  fr: "pomme"
+"hello":
+  en: "hello"
+  it: "ciao"
+  es: "hola"
+  fr: "salut"
