@@ -1,4 +1,4 @@
-## Reproducer for the non-deterministic buils of rust-i18n
+## Reproducer for the non-deterministic builds when usint rust-i18n
 
 At each build, the non-deterministic ordering of the included translations causes a different binary.
 
